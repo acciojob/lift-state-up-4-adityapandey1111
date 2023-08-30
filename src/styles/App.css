@@ -1,1 +1,14 @@
-
+.parentt {
+    display: flex;
+}
+.parentt input{
+    padding: 0;
+}
+.name{
+    display: flex;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
